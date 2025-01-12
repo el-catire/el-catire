@@ -1,3 +1,4 @@
+<hr>
 👋 <b>¡Hola!</b> yo soy <a href="https://github.com/el-catire">@el-catire</a><br>
 🤖 Soy un joven fascinado por la tecnología y el internet.<br>
 🧐 Me encanta el codigo abierto y verificable.<br>
@@ -6,8 +7,6 @@
 <p>Tengo esta cuenta de GitHub porque en mis planes está aprender a programar, y pretendo cargar aqui el código fuente de las cosas que yo invente.<br>
 Desde ya muchas gracias.</p>
 <hr>
-<a href="https://facebook.com/ecc.curve25519"><img src="https://z-m-static.xx.fbcdn.net/rsrc.php/v4/yh/r/Sg2QOE06yVC.png" alt="Facebook Logo" style="width: 24px; height: 24px"></a>
-<a href="https://instagram.com/ecc.curve25519"><img src="https://static.cdninstagram.com/rsrc.php/v4/yA/r/O_3Ggpr3_aA.png" alt="Instagram Logo" style="width: 24px; height: 24px"></a>
 <!---
 el-catire/el-catire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
