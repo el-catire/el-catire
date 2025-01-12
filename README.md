@@ -7,7 +7,7 @@
 Desde ya muchas gracias.</p>
 <hr>
 <div>
-<img src="https://z-m-static.xx.fbcdn.net/rsrc.php/v4/yh/r/Sg2QOE06yVC.png" alt="Facebook Logo" style="width: 24px; height: 24px"><a href="https://facebook.com/ecc.curve25519">Facebook</a>
+<img src="https://z-m-static.xx.fbcdn.net/rsrc.php/v4/yh/r/Sg2QOE06yVC.png" alt="Facebook Logo" style="width: 24px; height: 24px; vertical-allign: middle"><a href="https://facebook.com/ecc.curve25519">Facebook</a>
 </div>
 <!---
 el-catire/el-catire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
