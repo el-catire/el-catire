@@ -1,4 +1,4 @@
-👋 <b>¡Hola!</b> yo soy @el-catire.<br>
+👋 <b>¡Hola!</b> yo soy <a href="https://github.com/el-catire">@el-catire</a><br>
 🤖 Soy un joven fascinado por la tecnología y el internet.<br>
 🧐 Me encanta el codigo abierto y verificable.<br>
 🇵🇾 <b>¡Soy Paraguayo!</b> con mucho gusto.<br>
