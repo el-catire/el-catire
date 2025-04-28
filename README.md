@@ -58,6 +58,8 @@
 
 * [TikTok](https://www.tiktok.com/@x3dh.curve25519)
 
+* [Mastodon](https://mastodon.social/@ecdh_curve25519)
+
 * [E-mail](mailto:rodrigojbh@outlook.com)
 ---
 ## Mi clave pública PGP:
